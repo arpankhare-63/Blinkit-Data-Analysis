@@ -9,7 +9,7 @@ This dashboard is designed to reflect the data-driven decision-making needs of a
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Power BI Dashboard](images/dashboard-preview.png)
+![Blinkit Power BI Dashboard](Blinkit Analysis/Images/Blinkit Analysis.png)
 
 ---
 
