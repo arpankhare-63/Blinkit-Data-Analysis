@@ -9,7 +9,7 @@ This dashboard is designed to reflect the data-driven decision-making needs of a
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Power BI Dashboard](Blinkit Analysis/Images/Blinkit Analysis.png)
+![Blinkit Power BI Dashboard](Blinkit_Analysis/Images/BlinkitAnalysis.png)
 
 ---
 
@@ -91,4 +91,11 @@ This dashboard answers all of that — at a glance.
 ---
 
 ## 📁 Project Structure
+```
+├── BlinkitDashboard.pbix # Main Power BI report file
+├── README.md # Project documentation
+├── images/
+│ └── dashboard-preview.png # Screenshot used in README
+└── data/ # (Optional) Sample or raw data files
+```
 
